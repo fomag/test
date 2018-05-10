@@ -1,3 +1,3 @@
-<section id="cra1">
+<section id="cra">
 Test AJAX of stuff from the CRA website!
 </section>
