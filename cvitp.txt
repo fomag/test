@@ -1,38 +1,40 @@
 <section id="acton">
-<h1 id="wb-cont" property="name">Tax Preparation Clinics - ACTON <abbr title='Ontario'>ON</abbr></h1>
+<h1 id="wb-cont" property="name">Tax Preparation Clinics - ACTON <abbr title="Ontario">ON</abbr></h1>
 
-<h2 class='page-header'><a name='892'></a>Links2Care</h2>
-<dl class='dl-horizontal'><dt>Organization</dt>
+<h2 class="page-header"><a name="892"></a>Links2Care</h2>
+<dl class="dl-horizontal"><dt>Organization</dt>
 <dd>Links2Care</dd>
 <dt>Primary Contact</dt>
-<dd>Cathy Gerrow<br />(519) 853-3310<br /><a href='mailto:cgerrow@links2care.ca'>cgerrow@links2care.ca</a></dd><dt>Address</dt>
-<dd>47 MILL STREET EAST<br />ACTON <abbr title='Ontario'>ON</abbr>&nbsp;&nbsp;L7J 1J7</dd><dt>Additional building information</dt>
+<dd>Cathy Gerrow<br />(519) 853-3310<br /><a href="mailto:cgerrow@links2care.ca">cgerrow@links2care.ca</a></dd><dt>Address</dt>
+<dd>47 MILL STREET EAST<br />ACTON <abbr title="Ontario">ON</abbr>&nbsp;&nbsp;L7J 1J7</dd><dt>Additional building information</dt>
 <dd>Use back door on John Street North, Acton.</dd>
 <dt>Wheelchair Accessible</dt>
 <dd>Yes</dd>
 
-</dl><div class='wb-tabs'>
-<div class='tabpanels'>
+</dl>
 
-<details id='details0'>
+<div class="wb-tabs">
+<div class="tabpanels">
+
+<details id="details0">
 <summary>Session 1</summary>
-<dl class='dl-horizontal'>
+<dl class="dl-horizontal">
 <dt>Hours</dt>
 <dd>
-<ul class='list-group mrgn-bttm-0'>
+<ul class="list-group mrgn-bttm-0">
 <li><abbr title="Tuesday">Tue</abbr>, <abbr title="Wednesday">Wed</abbr>, <abbr title="Thursday">Thu</abbr> and <abbr title="Friday">Fri</abbr> from 9:00 AM&nbsp;-&nbsp;12:30 PM (until December 31)<br />Closed during lunch</li>
 <li><abbr title="Tuesday">Tue</abbr>, <abbr title="Wednesday">Wed</abbr>, <abbr title="Thursday">Thu</abbr> and <abbr title="Friday">Fri</abbr> from 1:30 PM&nbsp;-&nbsp;3:00 PM (until December 31)<br />Closed during lunch</li>
 <li>Monday from 9:00 AM&nbsp;-&nbsp;12:30 PM (until December 31)<br />Closed during lunch</li>
 </ul>
 </dd>
 <dt>Type</dt>
-<dd><span class='nowrap'>Walk-ins</span>, <span class='nowrap'>Drop-offs</span></dd>
+<dd><span class="nowrap">Walk-ins</span>, <span class="nowrap">Drop-offs</span></dd>
 <dt>Returns prepared</dt>
 <dd>Current year and prior year returns</dd>
 <dt>Languages</dt>
 <dd>English</dd>
 <dt>Clientele</dt>
-<dd><span class='nowrap'>General Public</span></dd>
+<dd><span class="nowrap">General Public</span></dd>
 <dt># of volunteers</dt>
 <dd>4</dd></dl></details>
 </div></div>
