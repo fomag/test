@@ -1,5 +1,7 @@
 https://o0.pages.dev/Lite/domains.txt
 https://raw.githubusercontent.com/fomag/test/master/GoodbyeAds.txt
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://raw.githubusercontent.com/fomag/test/master/GoodbyeAds-Samsung-AdBlock.txt
+https://raw.githubusercontent.com/fomag/test/master/GoodbyeAds-YouTube-AdBlock.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://raw.githubusercontent.com/fomag/test/master/adobe.txt
