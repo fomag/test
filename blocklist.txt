@@ -2,6 +2,5 @@ https://o0.pages.dev/Lite/domains.txt
 https://dbl.oisd.nl/
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://raw.githubusercontent.com/fomag/test/master/adobe.txt
-https://blocklistproject.github.io/Lists/tracking.txt
 https://blocklistproject.github.io/Lists/ads.txt
 https://blocklistproject.github.io/Lists/malware.txt
