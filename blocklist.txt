@@ -2,4 +2,3 @@ https://o0.pages.dev/Lite/domains.txt
 https://dbl.oisd.nl/
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://raw.githubusercontent.com/fomag/test/master/adobe.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
