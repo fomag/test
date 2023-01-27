@@ -1,5 +1,5 @@
 https://o0.pages.dev/Lite/domains.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+https://dbl.oisd.nl/
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://raw.githubusercontent.com/fomag/test/master/adobe.txt
