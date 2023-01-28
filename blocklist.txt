@@ -1,3 +1,2 @@
-https://o0.pages.dev/Lite/domains.txt
 https://blocklistproject.github.io/Lists/malware.txt
 https://blocklistproject.github.io/Lists/adobe.txt
