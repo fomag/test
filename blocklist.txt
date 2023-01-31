@@ -5,3 +5,6 @@ https://blocklistproject.github.io/Lists/fraud.txt
 https://blocklistproject.github.io/Lists/phishing.txt
 https://blocklistproject.github.io/Lists/ransomware.txt
 https://blocklistproject.github.io/Lists/scam.txt
+https://v.firebog.net/hosts/RPiList-Malware.txt
+https://v.firebog.net/hosts/RPiList-Phishing.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
