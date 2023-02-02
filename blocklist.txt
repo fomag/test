@@ -8,3 +8,4 @@ https://blocklistproject.github.io/Lists/scam.txt
 https://v.firebog.net/hosts/RPiList-Malware.txt
 https://v.firebog.net/hosts/RPiList-Phishing.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
