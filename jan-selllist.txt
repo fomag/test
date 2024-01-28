@@ -73,5 +73,4 @@ HELD-Fable Fruit $20
 HELD-Harvest $20
 HELD-La Granja $30
 HELD-New York Slice $20
-HELD-Pax Pamir - 2nd Edition $80
 HELD-Viticulture World $30
